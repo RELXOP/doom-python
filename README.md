@@ -1,9 +1,6 @@
 # doom-python
 A Doom-inspired 2.5D game engine built entirely in Python using ray-casting techniques, inspired by the classic DOOM (1993).
 
-# doom-python
-A Doom-inspired 2.5D game engine built entirely in Python using ray-casting techniques, inspired by the classic DOOM (1993).
-
 🎮 Doom Python (Doom-Inspired Ray Casting Engine)
 
 A Doom-inspired 2.5D game engine built entirely in Python, recreating the classic retro FPS feel using ray-casting techniques.

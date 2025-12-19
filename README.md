@@ -46,11 +46,27 @@ W	Move Forward
 S	Move Backward
 A	Move Left
 D	Move Right
-Rotate Camera using Mouse
+← / →	Rotate Camera
 ESC	Quit Game
 
-▶️ How to Run
+(Modify if your controls differ)
 
+📂 Project Structure
+doom-python/
+│
+├── main.py              # Entry point
+├── settings.py          # Game configuration
+├── raycasting.py        # Ray casting logic
+├── map.py               # Map layout
+├── player.py            # Player movement & rotation
+├── assets/              # Textures / resources
+├── README.md
+└── .gitignore
+
+
+(Adjust filenames if needed — structure clarity matters more than exact names)
+
+▶️ How to Run
 1️⃣ Clone the repository
 git clone git@github.com:RELXOP/doom-python.git
 cd doom-python
@@ -85,11 +101,11 @@ This project is fan-made and non-commercial.
 All inspiration comes from the original DOOM by id Software.
 No original game assets are used.
 
-👨‍💻 Author :
-Pragyan
+👨‍💻 Author
+
+Pragyan Kumar Biswas
 GitHub: RELXOP
 
 ⭐ If you like this project
 
 Give it a ⭐ — it helps a lot!
-

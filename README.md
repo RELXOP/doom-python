@@ -9,7 +9,7 @@ A Doom-inspired 2.5D game engine built entirely in Python using ray-casting tech
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="45%" alt="Gameplay Screenshot 1">
+  <img src="sreenshots/1.png" width="45%" alt="Gameplay Screenshot 1">
   <img src="screenshots/2.png" width="45%" alt="Gameplay Screenshot 2">
 </p>
 <p align="center">

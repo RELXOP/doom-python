@@ -6,6 +6,16 @@ A Doom-inspired 2.5D game engine built entirely in Python using ray-casting tech
 ![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/1.jpg" width="45%" alt="Gameplay Screenshot 1">
+  <img src="screenshots/2.jpg" width="45%" alt="Gameplay Screenshot 2">
+</p>
+<p align="center">
+  <img src="screenshots/3.jpg" width="45%" alt="Gameplay Screenshot 3">
+</p>
+
 ## 🎮 About the Project
 
 This project simulates a pseudo-3D environment by projecting 2D map data into a first-person view using **ray casting**, the same core rendering technique used in legendary early FPS engines like Doom and Wolfenstein 3D.
